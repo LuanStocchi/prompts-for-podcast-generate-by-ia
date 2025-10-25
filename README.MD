@@ -57,7 +57,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src=""
  />
     <p>&nbsp&nbsp&nbspLuan Stocchi<br>
     &nbsp&nbsp&nbsp
@@ -67,7 +67,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/luan-cometti-7864911b2">
+        href="www.linkedin.com/in/luan-cometti">
         LinkedIn
     </a>
     &nbsp;|&nbsp;
