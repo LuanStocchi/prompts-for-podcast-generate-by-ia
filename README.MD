@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/Lucid_Origin_create_a_intricate_chip_in_the_middle_of_a_futuri_0.png"
     width="300"
 />
 </p>
@@ -9,7 +9,7 @@
 <a href="https://dio.me/">
     <img 
         src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
+        alt="DIO - Universia - Santander">
 
 <div align="center">
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
