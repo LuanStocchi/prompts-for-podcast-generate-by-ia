@@ -62,7 +62,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     <p>&nbsp&nbsp&nbspLuan Stocchi<br>
     &nbsp&nbsp&nbsp
     <a 
-        href="https://github.com/Luan Stocchi">
+        href="https://github.com/LuanStocchi">
         GitHub
     </a>
     &nbsp;|&nbsp;
