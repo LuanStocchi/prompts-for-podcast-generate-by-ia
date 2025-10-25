@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/Lucid_Origin_create_a_intricate_chip_in_the_middle_of_a_futuri_0.png"
+    src="./assets/Lucid_Origin_create_a_intricate_chip_in_the_middle_of_a_futuri_0.jpg"
     width="300"
 />
 </p>
