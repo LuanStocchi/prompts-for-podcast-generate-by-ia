@@ -57,7 +57,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       align=left 
       margin=10 
       width=80 
-      src=""
+      src="https://avatars.githubusercontent.com/u/240217680?v=4"
  />
     <p>&nbsp&nbsp&nbspLuan Stocchi<br>
     &nbsp&nbsp&nbsp
