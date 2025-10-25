@@ -52,7 +52,11 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ## 👨‍💻 Criador
 
-Luan Stocchi
+- Luan Stocchi
+
+- [LinkedIN](www.linkedin.com/in/luan-cometti-7864911b2)
+
+- [Instagram](https://www.instagram.com/luancometti?igsh=MTF0dHgyYWU3cjl1YQ==)
 
 
 </p>
